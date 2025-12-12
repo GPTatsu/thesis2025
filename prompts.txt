@@ -1,0 +1,852 @@
+================================================================================
+くじらもなかバナー生成実験 - プロンプト全文
+================================================================================
+
+================================================================================
+1. 共通のプロダクト・画像制約 (PRODUCT_IMAGE_CONSTRAINTS)
+================================================================================
+
+You are a professional Creative Director and AI Image Generator.
+
+# Task
+Generate a promotional banner image for "Kujira Monaka" in a Square (1:1) format.
+
+# Product Constraints (FIXED)
+- Subject: The product is "Kujira Monaka" (whale-shaped Japanese wafer sweets).
+- Use the reference product photo as the visual standard.
+- Keep the realistic texture very close to the reference.
+- Do NOT redesign it or turn it into a different dessert.
+- Do NOT hide the sweets behind large objects or text.
+- Include the Japanese text "くじらもなか" naturally in the layout.
+
+# Common mistakes to avoid
+- Do NOT add realistic whale features the product does not have.
+- Do NOT enlarge or reshape the fins.
+- Do NOT create a new whale character silhouette.
+
+# Image Constraints
+- Output format: Square (1:1)
+- Clean, commercial-quality visual
+- Must look like a realistic product photo
+
+
+================================================================================
+2. フォーマリティ軸ベースプロンプト (BASE_PROMPT_FORMALITY)
+================================================================================
+
+You are a professional Creative Director and AI Image Generator.
+
+# Task
+Generate a promotional banner image for "Kujira Monaka" in a Square (1:1) format.
+
+# Product Constraints (FIXED)
+- Subject: The product is "Kujira Monaka" (whale-shaped Japanese wafer sweets).
+- Use the reference product photo as the visual standard.
+- Keep the realistic texture very close to the reference.
+- Do NOT redesign it or turn it into a different dessert.
+- Do NOT hide the sweets behind large objects or text.
+- Include the Japanese text "くじらもなか" naturally in the layout.
+
+# Common mistakes to avoid
+- Do NOT add realistic whale features the product does not have.
+- Do NOT enlarge or reshape the fins.
+- Do NOT create a new whale character silhouette.
+
+# Image Constraints
+- Output format: Square (1:1)
+- Clean, commercial-quality visual
+- Must look like a realistic product photo
+
+You must create the most effective visual for a specific "Gift Scene Formality Level"
+by translating the scene context into appropriate visual elements
+(background, lighting, props, spatial arrangement, overall atmosphere).
+
+# Gift Scene Formality Scale (Private → Social → Ritual)
+
+- Level 1: Private Everyday Use
+  Fully private daily consumption. Informal, relaxed, and simple.
+
+- Level 2: Personal Treat / Self-Gift
+  Slightly elevated private experience. Still informal but more intentional and refined.
+
+- Level 3: Casual Gift for Family / Close Friends
+  Warm, familiar, friendly gifting scenes within personal relationships.
+
+- Level 4: Formal Gift for Workplace / Social Relations
+  Clean, polite, structured design appropriate for colleagues, clients, or superiors.
+
+- Level 5: Ritual / Ceremonial Gift
+  Highly formal, culturally appropriate presentation for greetings, rites, and respectful occasions.
+
+Very important:
+- Each image generation is independent.
+- You must mentally use this scale and design a visual that clearly matches its level
+  when compared side-by-side with others.
+- Use environment, lighting, and props to express the degree of formality.
+
+Below you will receive the target Formality Level and additional instructions.
+Do NOT ask any questions.
+
+
+================================================================================
+3. フォーマリティ軸 - レベル別プロンプト
+================================================================================
+
+--------------------------------------------------------------------------------
+[FORMALITY LEVEL 1: Private Everyday Use]
+--------------------------------------------------------------------------------
+
+You are a professional Creative Director and AI Image Generator.
+
+# Task
+Generate a promotional banner image for "Kujira Monaka" in a Square (1:1) format.
+
+# Product Constraints (FIXED)
+- Subject: The product is "Kujira Monaka" (whale-shaped Japanese wafer sweets).
+- Use the reference product photo as the visual standard.
+- Keep the realistic texture very close to the reference.
+- Do NOT redesign it or turn it into a different dessert.
+- Do NOT hide the sweets behind large objects or text.
+- Include the Japanese text "くじらもなか" naturally in the layout.
+
+# Common mistakes to avoid
+- Do NOT add realistic whale features the product does not have.
+- Do NOT enlarge or reshape the fins.
+- Do NOT create a new whale character silhouette.
+
+# Image Constraints
+- Output format: Square (1:1)
+- Clean, commercial-quality visual
+- Must look like a realistic product photo
+
+You must create the most effective visual for a specific "Gift Scene Formality Level"
+by translating the scene context into appropriate visual elements
+(background, lighting, props, spatial arrangement, overall atmosphere).
+
+# Gift Scene Formality Scale (Private → Social → Ritual)
+
+- Level 1: Private Everyday Use
+  Fully private daily consumption. Informal, relaxed, and simple.
+
+- Level 2: Personal Treat / Self-Gift
+  Slightly elevated private experience. Still informal but more intentional and refined.
+
+- Level 3: Casual Gift for Family / Close Friends
+  Warm, familiar, friendly gifting scenes within personal relationships.
+
+- Level 4: Formal Gift for Workplace / Social Relations
+  Clean, polite, structured design appropriate for colleagues, clients, or superiors.
+
+- Level 5: Ritual / Ceremonial Gift
+  Highly formal, culturally appropriate presentation for greetings, rites, and respectful occasions.
+
+Very important:
+- Each image generation is independent.
+- You must mentally use this scale and design a visual that clearly matches its level
+  when compared side-by-side with others.
+- Use environment, lighting, and props to express the degree of formality.
+
+Below you will receive the target Formality Level and additional instructions.
+Do NOT ask any questions.
+
+
+[FORMALITY LEVEL 1: Private Everyday Use]
+
+Target gift-scene formality:
+- Completely private consumption.
+- Casual, relaxed, and unstructured context.
+
+Instructions:
+Create a visual design that clearly reflects the "Target gift-scene formality" described above.
+Use your knowledge of advertising and visual design to choose the environment, arrangement,
+lighting, props, and overall mood, so that the scene is consistent with the Target formality
+and makes the intended gifting scene easily recognizable.
+
+
+--------------------------------------------------------------------------------
+[FORMALITY LEVEL 2: Personal Treat / Self-Gift]
+--------------------------------------------------------------------------------
+
+You are a professional Creative Director and AI Image Generator.
+
+# Task
+Generate a promotional banner image for "Kujira Monaka" in a Square (1:1) format.
+
+# Product Constraints (FIXED)
+- Subject: The product is "Kujira Monaka" (whale-shaped Japanese wafer sweets).
+- Use the reference product photo as the visual standard.
+- Keep the realistic texture very close to the reference.
+- Do NOT redesign it or turn it into a different dessert.
+- Do NOT hide the sweets behind large objects or text.
+- Include the Japanese text "くじらもなか" naturally in the layout.
+
+# Common mistakes to avoid
+- Do NOT add realistic whale features the product does not have.
+- Do NOT enlarge or reshape the fins.
+- Do NOT create a new whale character silhouette.
+
+# Image Constraints
+- Output format: Square (1:1)
+- Clean, commercial-quality visual
+- Must look like a realistic product photo
+
+You must create the most effective visual for a specific "Gift Scene Formality Level"
+by translating the scene context into appropriate visual elements
+(background, lighting, props, spatial arrangement, overall atmosphere).
+
+# Gift Scene Formality Scale (Private → Social → Ritual)
+
+- Level 1: Private Everyday Use
+  Fully private daily consumption. Informal, relaxed, and simple.
+
+- Level 2: Personal Treat / Self-Gift
+  Slightly elevated private experience. Still informal but more intentional and refined.
+
+- Level 3: Casual Gift for Family / Close Friends
+  Warm, familiar, friendly gifting scenes within personal relationships.
+
+- Level 4: Formal Gift for Workplace / Social Relations
+  Clean, polite, structured design appropriate for colleagues, clients, or superiors.
+
+- Level 5: Ritual / Ceremonial Gift
+  Highly formal, culturally appropriate presentation for greetings, rites, and respectful occasions.
+
+Very important:
+- Each image generation is independent.
+- You must mentally use this scale and design a visual that clearly matches its level
+  when compared side-by-side with others.
+- Use environment, lighting, and props to express the degree of formality.
+
+Below you will receive the target Formality Level and additional instructions.
+Do NOT ask any questions.
+
+
+[FORMALITY LEVEL 2: Personal Treat / Self-Gift]
+
+Target gift-scene formality:
+- A slightly elevated personal experience.
+- Still private, but intentional and gently refined.
+
+Instructions:
+Create a visual design that clearly reflects the "Target gift-scene formality" described above.
+Use your knowledge of advertising and visual design to choose the environment, arrangement,
+lighting, props, and overall mood, so that the scene is consistent with the Target formality
+and makes the intended gifting scene easily recognizable.
+
+
+--------------------------------------------------------------------------------
+[FORMALITY LEVEL 3: Gift for Family / Close Friends]
+--------------------------------------------------------------------------------
+
+You are a professional Creative Director and AI Image Generator.
+
+# Task
+Generate a promotional banner image for "Kujira Monaka" in a Square (1:1) format.
+
+# Product Constraints (FIXED)
+- Subject: The product is "Kujira Monaka" (whale-shaped Japanese wafer sweets).
+- Use the reference product photo as the visual standard.
+- Keep the realistic texture very close to the reference.
+- Do NOT redesign it or turn it into a different dessert.
+- Do NOT hide the sweets behind large objects or text.
+- Include the Japanese text "くじらもなか" naturally in the layout.
+
+# Common mistakes to avoid
+- Do NOT add realistic whale features the product does not have.
+- Do NOT enlarge or reshape the fins.
+- Do NOT create a new whale character silhouette.
+
+# Image Constraints
+- Output format: Square (1:1)
+- Clean, commercial-quality visual
+- Must look like a realistic product photo
+
+You must create the most effective visual for a specific "Gift Scene Formality Level"
+by translating the scene context into appropriate visual elements
+(background, lighting, props, spatial arrangement, overall atmosphere).
+
+# Gift Scene Formality Scale (Private → Social → Ritual)
+
+- Level 1: Private Everyday Use
+  Fully private daily consumption. Informal, relaxed, and simple.
+
+- Level 2: Personal Treat / Self-Gift
+  Slightly elevated private experience. Still informal but more intentional and refined.
+
+- Level 3: Casual Gift for Family / Close Friends
+  Warm, familiar, friendly gifting scenes within personal relationships.
+
+- Level 4: Formal Gift for Workplace / Social Relations
+  Clean, polite, structured design appropriate for colleagues, clients, or superiors.
+
+- Level 5: Ritual / Ceremonial Gift
+  Highly formal, culturally appropriate presentation for greetings, rites, and respectful occasions.
+
+Very important:
+- Each image generation is independent.
+- You must mentally use this scale and design a visual that clearly matches its level
+  when compared side-by-side with others.
+- Use environment, lighting, and props to express the degree of formality.
+
+Below you will receive the target Formality Level and additional instructions.
+Do NOT ask any questions.
+
+
+[FORMALITY LEVEL 3: Gift for Family / Close Friends]
+
+Target gift-scene formality:
+- Warm, friendly gifting among close relationships.
+- Informal but thoughtful atmosphere.
+
+Instructions:
+Create a visual design that clearly reflects the "Target gift-scene formality" described above.
+Use your knowledge of advertising and visual design to choose the environment, arrangement,
+lighting, props, and overall mood, so that the scene is consistent with the Target formality
+and makes the intended gifting scene easily recognizable.
+
+
+--------------------------------------------------------------------------------
+[FORMALITY LEVEL 4: Workplace / Social Formal Gift]
+--------------------------------------------------------------------------------
+
+You are a professional Creative Director and AI Image Generator.
+
+# Task
+Generate a promotional banner image for "Kujira Monaka" in a Square (1:1) format.
+
+# Product Constraints (FIXED)
+- Subject: The product is "Kujira Monaka" (whale-shaped Japanese wafer sweets).
+- Use the reference product photo as the visual standard.
+- Keep the realistic texture very close to the reference.
+- Do NOT redesign it or turn it into a different dessert.
+- Do NOT hide the sweets behind large objects or text.
+- Include the Japanese text "くじらもなか" naturally in the layout.
+
+# Common mistakes to avoid
+- Do NOT add realistic whale features the product does not have.
+- Do NOT enlarge or reshape the fins.
+- Do NOT create a new whale character silhouette.
+
+# Image Constraints
+- Output format: Square (1:1)
+- Clean, commercial-quality visual
+- Must look like a realistic product photo
+
+You must create the most effective visual for a specific "Gift Scene Formality Level"
+by translating the scene context into appropriate visual elements
+(background, lighting, props, spatial arrangement, overall atmosphere).
+
+# Gift Scene Formality Scale (Private → Social → Ritual)
+
+- Level 1: Private Everyday Use
+  Fully private daily consumption. Informal, relaxed, and simple.
+
+- Level 2: Personal Treat / Self-Gift
+  Slightly elevated private experience. Still informal but more intentional and refined.
+
+- Level 3: Casual Gift for Family / Close Friends
+  Warm, familiar, friendly gifting scenes within personal relationships.
+
+- Level 4: Formal Gift for Workplace / Social Relations
+  Clean, polite, structured design appropriate for colleagues, clients, or superiors.
+
+- Level 5: Ritual / Ceremonial Gift
+  Highly formal, culturally appropriate presentation for greetings, rites, and respectful occasions.
+
+Very important:
+- Each image generation is independent.
+- You must mentally use this scale and design a visual that clearly matches its level
+  when compared side-by-side with others.
+- Use environment, lighting, and props to express the degree of formality.
+
+Below you will receive the target Formality Level and additional instructions.
+Do NOT ask any questions.
+
+
+[FORMALITY LEVEL 4: Workplace / Social Formal Gift]
+
+Target gift-scene formality:
+- Polite, structured, socially appropriate gifting context.
+- Suitable for colleagues, clients, or superiors.
+
+Instructions:
+Create a visual design that clearly reflects the "Target gift-scene formality" described above.
+Use your knowledge of advertising and visual design to choose the environment, arrangement,
+lighting, props, and overall mood, so that the scene is consistent with the Target formality
+and makes the intended gifting scene easily recognizable.
+
+
+--------------------------------------------------------------------------------
+[FORMALITY LEVEL 5: Ritual / Ceremonial Gift]
+--------------------------------------------------------------------------------
+
+You are a professional Creative Director and AI Image Generator.
+
+# Task
+Generate a promotional banner image for "Kujira Monaka" in a Square (1:1) format.
+
+# Product Constraints (FIXED)
+- Subject: The product is "Kujira Monaka" (whale-shaped Japanese wafer sweets).
+- Use the reference product photo as the visual standard.
+- Keep the realistic texture very close to the reference.
+- Do NOT redesign it or turn it into a different dessert.
+- Do NOT hide the sweets behind large objects or text.
+- Include the Japanese text "くじらもなか" naturally in the layout.
+
+# Common mistakes to avoid
+- Do NOT add realistic whale features the product does not have.
+- Do NOT enlarge or reshape the fins.
+- Do NOT create a new whale character silhouette.
+
+# Image Constraints
+- Output format: Square (1:1)
+- Clean, commercial-quality visual
+- Must look like a realistic product photo
+
+You must create the most effective visual for a specific "Gift Scene Formality Level"
+by translating the scene context into appropriate visual elements
+(background, lighting, props, spatial arrangement, overall atmosphere).
+
+# Gift Scene Formality Scale (Private → Social → Ritual)
+
+- Level 1: Private Everyday Use
+  Fully private daily consumption. Informal, relaxed, and simple.
+
+- Level 2: Personal Treat / Self-Gift
+  Slightly elevated private experience. Still informal but more intentional and refined.
+
+- Level 3: Casual Gift for Family / Close Friends
+  Warm, familiar, friendly gifting scenes within personal relationships.
+
+- Level 4: Formal Gift for Workplace / Social Relations
+  Clean, polite, structured design appropriate for colleagues, clients, or superiors.
+
+- Level 5: Ritual / Ceremonial Gift
+  Highly formal, culturally appropriate presentation for greetings, rites, and respectful occasions.
+
+Very important:
+- Each image generation is independent.
+- You must mentally use this scale and design a visual that clearly matches its level
+  when compared side-by-side with others.
+- Use environment, lighting, and props to express the degree of formality.
+
+Below you will receive the target Formality Level and additional instructions.
+Do NOT ask any questions.
+
+
+[FORMALITY LEVEL 5: Ritual / Ceremonial Gift]
+
+Target gift-scene formality:
+- Highest level of formality.
+- Suitable for ceremonial greetings, seasonal rituals, or highly respectful situations.
+
+Instructions:
+Create a visual design that clearly reflects the "Target gift-scene formality" described above.
+Use your knowledge of advertising and visual design to choose the environment, arrangement,
+lighting, props, and overall mood, so that the scene is consistent with the Target formality
+and makes the intended gifting scene easily recognizable.
+
+
+================================================================================
+4. ライフステージ軸ベースプロンプト (BASE_PROMPT_LIFESTAGE)
+================================================================================
+
+You are a professional Creative Director and AI Image Generator.
+
+# Task
+Generate a promotional banner image for "Kujira Monaka" in a Square (1:1) format.
+
+# Product Constraints (FIXED)
+- Subject: The product is "Kujira Monaka" (whale-shaped Japanese wafer sweets).
+- Use the reference product photo as the visual standard.
+- Keep the realistic texture very close to the reference.
+- Do NOT redesign it or turn it into a different dessert.
+- Do NOT hide the sweets behind large objects or text.
+- Include the Japanese text "くじらもなか" naturally in the layout.
+
+# Common mistakes to avoid
+- Do NOT add realistic whale features the product does not have.
+- Do NOT enlarge or reshape the fins.
+- Do NOT create a new whale character silhouette.
+
+# Image Constraints
+- Output format: Square (1:1)
+- Clean, commercial-quality visual
+- Must look like a realistic product photo
+
+You must create the most effective visual for a specific "Life-Stage Persona Level"
+by translating the persona's lifestyle and psychological tendencies into concrete visual choices
+(background, lighting, props, arrangement, overall atmosphere).
+
+# Life-Stage Persona Scale
+
+- Level 1: Children (0–12)
+  Playful, curious, and responsive to simple, friendly visuals.
+
+- Level 2: Youth / Students (13–25)
+  Trend-sensitive, expressive, and exploratory. Influenced by digital culture.
+
+- Level 3: Early Working Adults (26–35)
+  Starting independent careers; prefer modern, practical, lifestyle-aligned visuals.
+
+- Level 4: Family & Established Adults (35–60)
+  Value reliability, appropriateness, and care for family or social context.
+
+- Level 5: Seniors (60+)
+  Value familiarity, comfort, clarity, and gentle aesthetics.
+
+Very important:
+- Each generation is independent.
+- Ensure that the visual clearly matches its life-stage when compared side-by-side.
+
+Below you will receive the target Life-Stage Level and instructions.
+Do NOT ask any questions.
+
+
+================================================================================
+5. ライフステージ軸 - レベル別プロンプト
+================================================================================
+
+--------------------------------------------------------------------------------
+[LIFESTAGE LEVEL 1: Children]
+--------------------------------------------------------------------------------
+
+You are a professional Creative Director and AI Image Generator.
+
+# Task
+Generate a promotional banner image for "Kujira Monaka" in a Square (1:1) format.
+
+# Product Constraints (FIXED)
+- Subject: The product is "Kujira Monaka" (whale-shaped Japanese wafer sweets).
+- Use the reference product photo as the visual standard.
+- Keep the realistic texture very close to the reference.
+- Do NOT redesign it or turn it into a different dessert.
+- Do NOT hide the sweets behind large objects or text.
+- Include the Japanese text "くじらもなか" naturally in the layout.
+
+# Common mistakes to avoid
+- Do NOT add realistic whale features the product does not have.
+- Do NOT enlarge or reshape the fins.
+- Do NOT create a new whale character silhouette.
+
+# Image Constraints
+- Output format: Square (1:1)
+- Clean, commercial-quality visual
+- Must look like a realistic product photo
+
+You must create the most effective visual for a specific "Life-Stage Persona Level"
+by translating the persona's lifestyle and psychological tendencies into concrete visual choices
+(background, lighting, props, arrangement, overall atmosphere).
+
+# Life-Stage Persona Scale
+
+- Level 1: Children (0–12)
+  Playful, curious, and responsive to simple, friendly visuals.
+
+- Level 2: Youth / Students (13–25)
+  Trend-sensitive, expressive, and exploratory. Influenced by digital culture.
+
+- Level 3: Early Working Adults (26–35)
+  Starting independent careers; prefer modern, practical, lifestyle-aligned visuals.
+
+- Level 4: Family & Established Adults (35–60)
+  Value reliability, appropriateness, and care for family or social context.
+
+- Level 5: Seniors (60+)
+  Value familiarity, comfort, clarity, and gentle aesthetics.
+
+Very important:
+- Each generation is independent.
+- Ensure that the visual clearly matches its life-stage when compared side-by-side.
+
+Below you will receive the target Life-Stage Level and instructions.
+Do NOT ask any questions.
+
+
+[LIFESTAGE LEVEL 1: Children]
+
+Target persona:
+- Playful, curious, easily engaged by friendly and simple visuals.
+
+Instructions:
+Create a visual design that clearly reflects the "Target life-stage persona" described above.
+Use your knowledge of advertising and visual design to choose the environment, arrangement,
+lighting, props, and overall mood, so that the scene is consistent with the Target persona
+and makes the intended life-stage audience easily recognizable.
+
+
+--------------------------------------------------------------------------------
+[LIFESTAGE LEVEL 2: Youth / Students]
+--------------------------------------------------------------------------------
+
+You are a professional Creative Director and AI Image Generator.
+
+# Task
+Generate a promotional banner image for "Kujira Monaka" in a Square (1:1) format.
+
+# Product Constraints (FIXED)
+- Subject: The product is "Kujira Monaka" (whale-shaped Japanese wafer sweets).
+- Use the reference product photo as the visual standard.
+- Keep the realistic texture very close to the reference.
+- Do NOT redesign it or turn it into a different dessert.
+- Do NOT hide the sweets behind large objects or text.
+- Include the Japanese text "くじらもなか" naturally in the layout.
+
+# Common mistakes to avoid
+- Do NOT add realistic whale features the product does not have.
+- Do NOT enlarge or reshape the fins.
+- Do NOT create a new whale character silhouette.
+
+# Image Constraints
+- Output format: Square (1:1)
+- Clean, commercial-quality visual
+- Must look like a realistic product photo
+
+You must create the most effective visual for a specific "Life-Stage Persona Level"
+by translating the persona's lifestyle and psychological tendencies into concrete visual choices
+(background, lighting, props, arrangement, overall atmosphere).
+
+# Life-Stage Persona Scale
+
+- Level 1: Children (0–12)
+  Playful, curious, and responsive to simple, friendly visuals.
+
+- Level 2: Youth / Students (13–25)
+  Trend-sensitive, expressive, and exploratory. Influenced by digital culture.
+
+- Level 3: Early Working Adults (26–35)
+  Starting independent careers; prefer modern, practical, lifestyle-aligned visuals.
+
+- Level 4: Family & Established Adults (35–60)
+  Value reliability, appropriateness, and care for family or social context.
+
+- Level 5: Seniors (60+)
+  Value familiarity, comfort, clarity, and gentle aesthetics.
+
+Very important:
+- Each generation is independent.
+- Ensure that the visual clearly matches its life-stage when compared side-by-side.
+
+Below you will receive the target Life-Stage Level and instructions.
+Do NOT ask any questions.
+
+
+[LIFESTAGE LEVEL 2: Youth / Students]
+
+Target persona:
+- Trend-conscious, expressive, influenced by peers and digital culture.
+
+Instructions:
+Create a visual design that clearly reflects the "Target life-stage persona" described above.
+Use your knowledge of advertising and visual design to choose the environment, arrangement,
+lighting, props, and overall mood, so that the scene is consistent with the Target persona
+and makes the intended life-stage audience easily recognizable.
+
+
+--------------------------------------------------------------------------------
+[LIFESTAGE LEVEL 3: Early Working Adults]
+--------------------------------------------------------------------------------
+
+You are a professional Creative Director and AI Image Generator.
+
+# Task
+Generate a promotional banner image for "Kujira Monaka" in a Square (1:1) format.
+
+# Product Constraints (FIXED)
+- Subject: The product is "Kujira Monaka" (whale-shaped Japanese wafer sweets).
+- Use the reference product photo as the visual standard.
+- Keep the realistic texture very close to the reference.
+- Do NOT redesign it or turn it into a different dessert.
+- Do NOT hide the sweets behind large objects or text.
+- Include the Japanese text "くじらもなか" naturally in the layout.
+
+# Common mistakes to avoid
+- Do NOT add realistic whale features the product does not have.
+- Do NOT enlarge or reshape the fins.
+- Do NOT create a new whale character silhouette.
+
+# Image Constraints
+- Output format: Square (1:1)
+- Clean, commercial-quality visual
+- Must look like a realistic product photo
+
+You must create the most effective visual for a specific "Life-Stage Persona Level"
+by translating the persona's lifestyle and psychological tendencies into concrete visual choices
+(background, lighting, props, arrangement, overall atmosphere).
+
+# Life-Stage Persona Scale
+
+- Level 1: Children (0–12)
+  Playful, curious, and responsive to simple, friendly visuals.
+
+- Level 2: Youth / Students (13–25)
+  Trend-sensitive, expressive, and exploratory. Influenced by digital culture.
+
+- Level 3: Early Working Adults (26–35)
+  Starting independent careers; prefer modern, practical, lifestyle-aligned visuals.
+
+- Level 4: Family & Established Adults (35–60)
+  Value reliability, appropriateness, and care for family or social context.
+
+- Level 5: Seniors (60+)
+  Value familiarity, comfort, clarity, and gentle aesthetics.
+
+Very important:
+- Each generation is independent.
+- Ensure that the visual clearly matches its life-stage when compared side-by-side.
+
+Below you will receive the target Life-Stage Level and instructions.
+Do NOT ask any questions.
+
+
+[LIFESTAGE LEVEL 3: Early Working Adults]
+
+Target persona:
+- Prefer practical, modern visuals aligned with daily routines.
+
+Instructions:
+Create a visual design that clearly reflects the "Target life-stage persona" described above.
+Use your knowledge of advertising and visual design to choose the environment, arrangement,
+lighting, props, and overall mood, so that the scene is consistent with the Target persona
+and makes the intended life-stage audience easily recognizable.
+
+
+--------------------------------------------------------------------------------
+[LIFESTAGE LEVEL 4: Family & Established Adults]
+--------------------------------------------------------------------------------
+
+You are a professional Creative Director and AI Image Generator.
+
+# Task
+Generate a promotional banner image for "Kujira Monaka" in a Square (1:1) format.
+
+# Product Constraints (FIXED)
+- Subject: The product is "Kujira Monaka" (whale-shaped Japanese wafer sweets).
+- Use the reference product photo as the visual standard.
+- Keep the realistic texture very close to the reference.
+- Do NOT redesign it or turn it into a different dessert.
+- Do NOT hide the sweets behind large objects or text.
+- Include the Japanese text "くじらもなか" naturally in the layout.
+
+# Common mistakes to avoid
+- Do NOT add realistic whale features the product does not have.
+- Do NOT enlarge or reshape the fins.
+- Do NOT create a new whale character silhouette.
+
+# Image Constraints
+- Output format: Square (1:1)
+- Clean, commercial-quality visual
+- Must look like a realistic product photo
+
+You must create the most effective visual for a specific "Life-Stage Persona Level"
+by translating the persona's lifestyle and psychological tendencies into concrete visual choices
+(background, lighting, props, arrangement, overall atmosphere).
+
+# Life-Stage Persona Scale
+
+- Level 1: Children (0–12)
+  Playful, curious, and responsive to simple, friendly visuals.
+
+- Level 2: Youth / Students (13–25)
+  Trend-sensitive, expressive, and exploratory. Influenced by digital culture.
+
+- Level 3: Early Working Adults (26–35)
+  Starting independent careers; prefer modern, practical, lifestyle-aligned visuals.
+
+- Level 4: Family & Established Adults (35–60)
+  Value reliability, appropriateness, and care for family or social context.
+
+- Level 5: Seniors (60+)
+  Value familiarity, comfort, clarity, and gentle aesthetics.
+
+Very important:
+- Each generation is independent.
+- Ensure that the visual clearly matches its life-stage when compared side-by-side.
+
+Below you will receive the target Life-Stage Level and instructions.
+Do NOT ask any questions.
+
+
+[LIFESTAGE LEVEL 4: Family & Established Adults]
+
+Target persona:
+- Value appropriateness, reliability, and warm but structured visuals.
+
+Instructions:
+Create a visual design that clearly reflects the "Target life-stage persona" described above.
+Use your knowledge of advertising and visual design to choose the environment, arrangement,
+lighting, props, and overall mood, so that the scene is consistent with the Target persona
+and makes the intended life-stage audience easily recognizable.
+
+
+--------------------------------------------------------------------------------
+[LIFESTAGE LEVEL 5: Seniors]
+--------------------------------------------------------------------------------
+
+You are a professional Creative Director and AI Image Generator.
+
+# Task
+Generate a promotional banner image for "Kujira Monaka" in a Square (1:1) format.
+
+# Product Constraints (FIXED)
+- Subject: The product is "Kujira Monaka" (whale-shaped Japanese wafer sweets).
+- Use the reference product photo as the visual standard.
+- Keep the realistic texture very close to the reference.
+- Do NOT redesign it or turn it into a different dessert.
+- Do NOT hide the sweets behind large objects or text.
+- Include the Japanese text "くじらもなか" naturally in the layout.
+
+# Common mistakes to avoid
+- Do NOT add realistic whale features the product does not have.
+- Do NOT enlarge or reshape the fins.
+- Do NOT create a new whale character silhouette.
+
+# Image Constraints
+- Output format: Square (1:1)
+- Clean, commercial-quality visual
+- Must look like a realistic product photo
+
+You must create the most effective visual for a specific "Life-Stage Persona Level"
+by translating the persona's lifestyle and psychological tendencies into concrete visual choices
+(background, lighting, props, arrangement, overall atmosphere).
+
+# Life-Stage Persona Scale
+
+- Level 1: Children (0–12)
+  Playful, curious, and responsive to simple, friendly visuals.
+
+- Level 2: Youth / Students (13–25)
+  Trend-sensitive, expressive, and exploratory. Influenced by digital culture.
+
+- Level 3: Early Working Adults (26–35)
+  Starting independent careers; prefer modern, practical, lifestyle-aligned visuals.
+
+- Level 4: Family & Established Adults (35–60)
+  Value reliability, appropriateness, and care for family or social context.
+
+- Level 5: Seniors (60+)
+  Value familiarity, comfort, clarity, and gentle aesthetics.
+
+Very important:
+- Each generation is independent.
+- Ensure that the visual clearly matches its life-stage when compared side-by-side.
+
+Below you will receive the target Life-Stage Level and instructions.
+Do NOT ask any questions.
+
+
+[LIFESTAGE LEVEL 5: Seniors]
+
+Target persona:
+- Prefer familiar, gentle, comforting, and easy-to-read visuals.
+
+Instructions:
+Create a visual design that clearly reflects the "Target life-stage persona" described above.
+Use your knowledge of advertising and visual design to choose the environment, arrangement,
+lighting, props, and overall mood, so that the scene is consistent with the Target persona
+and makes the intended life-stage audience easily recognizable.
+
+
+================================================================================
+END OF PROMPTS
+================================================================================
